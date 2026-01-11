@@ -58,6 +58,7 @@ cd frontend
 
 ```bash
 npm install
+npm install react-router-dom
 ```
 
 #### Step 3: Start frontend
@@ -81,7 +82,7 @@ Open this URL in your browser to use the application.
 1. Select an audio range using the dropdown at the top (pagination).
 2. Play each audio file using the audio player.
 3. Select a rating (1–5) for each audio.
-4. Enter your username at the bottom.
+4. Enter your username.
 5. Click **Submit Ratings** to save your ratings.
 6. Click **Export CSV** to download all collected ratings as a CSV file.
 
